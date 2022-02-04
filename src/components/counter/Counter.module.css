@@ -1,0 +1,24 @@
+.counterContainer{
+    width: 400px;
+    min-height: 150px;
+    border:3px solid cyan;
+    margin: 50px auto;
+    padding: 30px;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.containerButton{
+    min-height: 60px;
+    margin-top: 20px;
+    border:3px solid cyan;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+
+
+
